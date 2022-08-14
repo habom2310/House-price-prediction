@@ -11,3 +11,5 @@
   - https://www.tensorflow.org/hub/tutorials/image_feature_vector
   - https://github.com/habom2310/Transfer-learning-with-keras
 
+- NPL with tensorflow:
+  - https://www.tensorflow.org/text/tutorials/classify_text_with_bert
