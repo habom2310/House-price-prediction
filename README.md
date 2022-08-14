@@ -13,3 +13,4 @@
 
 - NPL with tensorflow:
   - https://www.tensorflow.org/text/tutorials/classify_text_with_bert
+  - https://www.tensorflow.org/text/tutorials/nmt_with_attention
